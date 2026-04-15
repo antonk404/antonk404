@@ -1,5 +1,3 @@
-<div align="right"><sub>antonk</sub></div>
-
 <div align="center">
 
 <img src="/assets/louis.jpg" width="200" alt="Louis"/>
