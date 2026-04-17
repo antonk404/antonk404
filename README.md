@@ -7,19 +7,19 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%208%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-poker-rating             5 hrs 51 mins       ██████████████░░░░░░░░░░░   56.93 % 
-antlers-infra            2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
-antonk                   56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-profile                  49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-dotfiles                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+poker-rating             5 hrs 51 mins       ████████████░░░░░░░░░░░░░   47.71 % 
+antlers-infra            2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+antlers-api              1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+antonk                   57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+profile                  49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
 ```
 
 
- Last Updated on 17/04/2026 02:10:22 UTC
+ Last Updated on 17/04/2026 07:30:32 UTC
 <!--END_SECTION:waka-->
