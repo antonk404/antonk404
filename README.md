@@ -13,13 +13,13 @@
 
 ```text
 🐱‍💻 Projects: 
-antlers-infra            2 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   34.20 % 
-antlers-api              1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
-poker-rating             1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-antonk                   57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-profile                  49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+antlers-infra            2 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   37.08 % 
+antlers-api              1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
+antonk                   57 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+profile                  49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+dotfiles                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
 ```
 
 
- Last Updated on 22/04/2026 02:09:02 UTC
+ Last Updated on 23/04/2026 02:13:17 UTC
 <!--END_SECTION:waka-->
