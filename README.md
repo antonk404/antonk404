@@ -13,11 +13,11 @@
 
 ```text
 🐱‍💻 Projects: 
-antlers-infra            1 hr 8 mins         ████████████████░░░░░░░░░   64.98 % 
-main-antonk              32 mins             ████████░░░░░░░░░░░░░░░░░   31.40 % 
-dotfiles                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+antlers-infra            21 mins             ████████████████░░░░░░░░░   62.39 % 
+main-antonk              9 mins              ███████░░░░░░░░░░░░░░░░░░   26.71 % 
+dotfiles                 3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
 ```
 
 
- Last Updated on 25/04/2026 02:03:35 UTC
+ Last Updated on 26/04/2026 02:25:53 UTC
 <!--END_SECTION:waka-->
